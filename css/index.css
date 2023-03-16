@@ -1,0 +1,77 @@
+
+
+body {
+    font-family: Cambria, sans-serif;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    text-align: center;
+    cursor: crosshair;
+}
+
+div {
+    border: 8px solid red;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+a:hover {
+    color: deeppink;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+p:hover {
+    cursor: wait;
+}
+
+.loading-link {
+    width: 100%;
+    font-size: 28px;
+}
+
+.loading-link p {
+    font-size: 18px;
+}
+
+.expanding-link {
+    width: 100%;
+    font-size: 28px;
+}
+
+.expanding-link p {
+    font-size: 18px;
+}
+
+.progress-link {
+    width: 100%;
+    font-size: 28px;
+}
+
+.progress-link p {
+    font-size: 18px;
+}
+
+.search-link {
+    width: 100%;
+    font-size: 28px;
+}
+
+.search-link p {
+    font-size: 18px;
+}
+
+.navigation1-link {
+    width: 100%;
+    font-size: 28px;
+}
+
+.navigation1-link p {
+    font-size: 18px;
+}
