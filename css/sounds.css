@@ -12,6 +12,10 @@ body {
     overflow: hidden;
 }
 
+button {
+    border: 3px solid blue;
+}
+
 .btn {
     background-color: rebeccapurple;
     color: white;
