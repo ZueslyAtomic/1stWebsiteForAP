@@ -12,6 +12,10 @@ body {
     overflow: hidden;
 }
 
+button {
+    border: 3px solid blue;
+}
+
 .container {
     position: absolute;
     bottom: 20px;
