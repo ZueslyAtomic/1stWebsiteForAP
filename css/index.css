@@ -2,19 +2,19 @@
 
 body {
     font-family: Cambria, sans-serif;
-    display: flex;
-    height: 100vh;
-    overflow-x: hidden;
-    justify-content: space-evenly;
     background-color: black;
     color: white;
+    display: flex;
+    height: 100vh;
+    justify-content: space-evenly;
     text-align: center;
+    overflow-x: hidden;
     cursor: crosshair;
 }
 
 a {
     text-decoration: none;
-    color: aquamarine;
+    color: deepskyblue;
 }
 
 a:hover {
